@@ -2,7 +2,7 @@
 
 client_id = "c611206d0c1df312854d946041287893"
 name = "app-doacao-arredondar"
-application_url = "https://example.com"
+application_url = "https://bug-free-disco-q76x4wxw7gwqf9v7-4040.app.github.dev"
 embedded = true
 
 [build]

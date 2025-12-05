@@ -86,7 +86,7 @@ function Extension() {
             value={donationValue}
             onInput={(event) => setDonationValue((event.target instanceof HTMLInputElement ? event.target.value : ''))}
           ></s-text-field>
-
+a
           <s-button
             variant="primary"
             onClick={handleApplyDonation}
